@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Dkxzh091778](https://img.shields.io/badge/Dkxzh091778-github-blue?logo=github)](https://github.com/Dkxzh091778)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently pursuing a master's degree in Civil Engineering at Shenzhen University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: kduan_szu@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Civil Engineering, Shenzhen University, Sep. 2023—Jun. 2026.\
+B.E. in Civil Engineering, Jishou University, Sep. 2018—Jun. 2022.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Computational Mechanics; Fluid Mechanics; Surrogate Modeling; Machine Learning; Optimal Design
 

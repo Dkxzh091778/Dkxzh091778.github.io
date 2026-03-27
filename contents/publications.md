@@ -1,16 +1,14 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- X. Shen, <strong>K. Duan</strong>, X. Chen, and D. Su (2026). Modeling of Interaction Response of Multi Disc Cutters Cutting Concrete Pile Using Dynamic FEM Method. <strong>Tunnelling and Underground Space Technology</strong>, 168, 107136. [[Paper]](https://doi.org/10.1016/j.tust.2025.107136)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- X. Shen, H. Zhang, <strong>K. Duan</strong>*, et al. (2025). Study on the Interaction Characteristics and Disturbance Effects of Multiple Disc Cutters Cutting Concrete Piles. <strong>Tunnel and Underground Engineering Disaster Prevention</strong>, 7(2), 21–30. [[Paper]](https://doi.org/10.19952/j.cnki.2096-5052.2025.02.03)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>K. Duan</strong>, J. Ouyang, X. Shen, et al. (2024). Study on the Mechanical Response and Pile–Soil Disturbance Induced by Direct Shield Cutting of Piles under Different Cutterhead Rotation Speeds. <strong>China Civil Engineering Journal</strong>, 57(S2), 53–59. [[Paper]](https://doi.org/10.15951/j.tmgcxb.2024.S92)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- J. Ouyang, <strong>K. Duan</strong>, Q. Zeng, et al. (2024). Study on the Interaction Mechanism and Key Parameters of Shield Disc Cutter–Scraper Cutter Combination in Pile Cutting. <strong>China Civil Engineering Journal</strong>, 57(S1), 102–108. [[Paper]](https://doi.org/10.15951/j.tmgcxb.2024.S96)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+#### Patents
+
+- China Railway 14th Bureau Group Co., Ltd., China Railway 14th Bureau Group Large Shield Engineering Co., Ltd., and Shenzhen University (2024). A 3D Printing-Based Shield Pile-Cutting Model Test Device. <strong>Chinese Patent</strong>, 202420484018.2.
 
